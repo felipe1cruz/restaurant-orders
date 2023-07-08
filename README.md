@@ -1,13 +1,13 @@
 # Restaurant Orders
 
 ## Sobre
-Projeto desenvolvido em Python com o intuito de desenvolver um algoritmo de indexação de documentos similar ao do Google, capaz de identificar ocorrências de termos em arquivos TXT.
+Projeto desenvolvido em Python com o intuito de gerar cardápios para um restaurante considerando as possíveis restrições alimentares e também a disponibilidade de ingredientes em estoque.
 
 ## Habilidades Trabalhadas
-Manipular Pilhas;
-Manipular Deque;
-Manipular Nó & Listas Ligadas e;
-Manipular Listas Duplamente Ligadas.
+Praticar o conceito de Hashmaps através das estruturas de dados Dict e Setdo Python;
+Praticar a ferramenta Pandas junto a sua estrutura de dados DataFrame;
+Praticar os conhecimentos de testes de software;
+Praticar os conhecimentos de orientação a objetos.
 
 ## Arquivos
 Os seguintes arquivos foram desenvolvidos por mim:
